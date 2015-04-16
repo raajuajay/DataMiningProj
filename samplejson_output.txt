@@ -1,0 +1,232 @@
+$dailysummary
+$dailysummary[[1]]
+$dailysummary[[1]]$date
+$dailysummary[[1]]$date$pretty
+[1] "12:00 PM PST on February 08, 2015"
+
+$dailysummary[[1]]$date$year
+[1] "2015"
+
+$dailysummary[[1]]$date$mon
+[1] "02"
+
+$dailysummary[[1]]$date$mday
+[1] "08"
+
+$dailysummary[[1]]$date$hour
+[1] "12"
+
+$dailysummary[[1]]$date$min
+[1] "00"
+
+$dailysummary[[1]]$date$tzname
+[1] "America/Los_Angeles"
+
+
+$dailysummary[[1]]$fog
+[1] "0"
+
+$dailysummary[[1]]$rain
+[1] "1"
+
+$dailysummary[[1]]$snow
+[1] "0"
+
+$dailysummary[[1]]$snowfallm
+[1] "0.00"
+
+$dailysummary[[1]]$snowfalli
+[1] "0.00"
+
+$dailysummary[[1]]$monthtodatesnowfallm
+[1] "0.00"
+
+$dailysummary[[1]]$monthtodatesnowfalli
+[1] "0.00"
+
+$dailysummary[[1]]$since1julsnowfallm
+[1] "0.00"
+
+$dailysummary[[1]]$since1julsnowfalli
+[1] "0.00"
+
+$dailysummary[[1]]$snowdepthm
+[1] ""
+
+$dailysummary[[1]]$snowdepthi
+[1] ""
+
+$dailysummary[[1]]$hail
+[1] "0"
+
+$dailysummary[[1]]$thunder
+[1] "0"
+
+$dailysummary[[1]]$tornado
+[1] "0"
+
+$dailysummary[[1]]$meantempm
+[1] "16"
+
+$dailysummary[[1]]$meantempi
+[1] "61"
+
+$dailysummary[[1]]$meandewptm
+[1] "15"
+
+$dailysummary[[1]]$meandewpti
+[1] "59"
+
+$dailysummary[[1]]$meanpressurem
+[1] "1014"
+
+$dailysummary[[1]]$meanpressurei
+[1] "29.94"
+
+$dailysummary[[1]]$meanwindspdm
+[1] "30"
+
+$dailysummary[[1]]$meanwindspdi
+[1] "18"
+
+$dailysummary[[1]]$meanwdire
+[1] ""
+
+$dailysummary[[1]]$meanwdird
+[1] "165"
+
+$dailysummary[[1]]$meanvism
+[1] "11"
+
+$dailysummary[[1]]$meanvisi
+[1] "7"
+
+$dailysummary[[1]]$humidity
+[1] ""
+
+$dailysummary[[1]]$maxtempm
+[1] "18"
+
+$dailysummary[[1]]$maxtempi
+[1] "65"
+
+$dailysummary[[1]]$mintempm
+[1] "14"
+
+$dailysummary[[1]]$mintempi
+[1] "57"
+
+$dailysummary[[1]]$maxhumidity
+[1] "100"
+
+$dailysummary[[1]]$minhumidity
+[1] "67"
+
+$dailysummary[[1]]$maxdewptm
+[1] "16"
+
+$dailysummary[[1]]$maxdewpti
+[1] "61"
+
+$dailysummary[[1]]$mindewptm
+[1] "12"
+
+$dailysummary[[1]]$mindewpti
+[1] "54"
+
+$dailysummary[[1]]$maxpressurem
+[1] "1017"
+
+$dailysummary[[1]]$maxpressurei
+[1] "30.04"
+
+$dailysummary[[1]]$minpressurem
+[1] "1011"
+
+$dailysummary[[1]]$minpressurei
+[1] "29.85"
+
+$dailysummary[[1]]$maxwspdm
+[1] "66"
+
+$dailysummary[[1]]$maxwspdi
+[1] "41"
+
+$dailysummary[[1]]$minwspdm
+[1] "0"
+
+$dailysummary[[1]]$minwspdi
+[1] "0"
+
+$dailysummary[[1]]$maxvism
+[1] "16"
+
+$dailysummary[[1]]$maxvisi
+[1] "10"
+
+$dailysummary[[1]]$minvism
+[1] "2"
+
+$dailysummary[[1]]$minvisi
+[1] "1"
+
+$dailysummary[[1]]$gdegreedays
+[1] "10"
+
+$dailysummary[[1]]$heatingdegreedays
+[1] "4"
+
+$dailysummary[[1]]$coolingdegreedays
+[1] "0"
+
+$dailysummary[[1]]$precipm
+[1] "30.73"
+
+$dailysummary[[1]]$precipi
+[1] "1.21"
+
+$dailysummary[[1]]$precipsource
+[1] ""
+
+$dailysummary[[1]]$heatingdegreedaysnormal
+[1] "13"
+
+$dailysummary[[1]]$monthtodateheatingdegreedays
+[1] "48"
+
+$dailysummary[[1]]$monthtodateheatingdegreedaysnormal
+[1] "104"
+
+$dailysummary[[1]]$since1sepheatingdegreedays
+[1] ""
+
+$dailysummary[[1]]$since1sepheatingdegreedaysnormal
+[1] ""
+
+$dailysummary[[1]]$since1julheatingdegreedays
+[1] "821"
+
+$dailysummary[[1]]$since1julheatingdegreedaysnormal
+[1] "1571"
+
+$dailysummary[[1]]$coolingdegreedaysnormal
+[1] "0"
+
+$dailysummary[[1]]$monthtodatecoolingdegreedays
+[1] "0"
+
+$dailysummary[[1]]$monthtodatecoolingdegreedaysnormal
+[1] "0"
+
+$dailysummary[[1]]$since1sepcoolingdegreedays
+[1] ""
+
+$dailysummary[[1]]$since1sepcoolingdegreedaysnormal
+[1] ""
+
+$dailysummary[[1]]$since1jancoolingdegreedays
+[1] "0"
+
+$dailysummary[[1]]$since1jancoolingdegreedaysnormal
+[1] "0"
+
