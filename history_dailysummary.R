@@ -83,3 +83,25 @@ dailySummary <- function(filename){
     writeLines("===============================================================================")
   }
 }
+
+dailySummaryinmatrixandfile <- function(inputfilepath,outputfilname){
+  
+  filenames <- list.files(inputfilepath)
+  
+  for(i in 1:length(filenames))
+  {
+    print(paste(inputfilepath,"/",filenames[i],sep = ""))
+    output <- readjson(paste(inputfilepath,"/",filenames[i],sep = ""))
+    json_file <- lapply(output$history$dailysummary, function(x) {
+      x[sapply(x, is.null)] <- NA
+      unlist(x)
+    })
+    a <- do.call("rbind", json_file)
+    if(file.exists(outputfilname))
+      write.table(a,file=outputfilname,sep=",", col.names = F, row.names = F,append = TRUE)
+    else
+      write.table(a,file=outputfilname,sep=",", col.names = T, row.names = F)
+  }
+}
+
+
